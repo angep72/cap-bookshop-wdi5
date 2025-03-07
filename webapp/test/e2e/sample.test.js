@@ -14,7 +14,7 @@ describe("samples", () => {
         logger.log("hello world!")
     })
 
-    // intentionally skipping this as you have to adjust things to your UI5 app :)
+    // intentionally skipping this as your have to adjust things to your UI5 app :)
     it.skip("should retrieve a UI5 control", async () => {
         const appLocator = {
             selector: {
